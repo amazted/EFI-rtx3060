@@ -1,4 +1,4 @@
-# 适用于msi B760 + nvidia RTX3060驱动hackintosh
+# 适用于msi B760 + nvidia RTX3060驱动macos 26 Tahoe
 
 ## 构建启动盘
 1. 使用[nullmoth](https://github.com/nullmoth/1401)的1401工具构建启动盘
